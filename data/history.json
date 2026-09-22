@@ -1,0 +1,21 @@
+[
+  {
+    "id": "499871",
+    "algorithm": "Random Forest",
+    "inputs": {
+      "Driver Age": "22 years old",
+      "Annual Income": "\u20b9 30,000",
+      "Total Claim Amount": "\u20b9 65,000",
+      "Injury Claim Amount": "\u20b9 45,000",
+      "Days Claim Open": "42 days",
+      "Police Report": "No",
+      "Witness Present": "No",
+      "Vehicle Rating": "\u2b50\u2b50\u2606\u2606\u2606"
+    },
+    "prediction": "Appears Normal",
+    "friendly_title": "This claim appears normal",
+    "is_fraud": false,
+    "probability": 23.2,
+    "timestamp": "22 September 2026, 10:00 PM"
+  }
+]
